@@ -1,3 +1,5 @@
+google-cloud-sdk
+
 # Logs
 logs
 *.log
@@ -128,3 +130,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+env
+env_new
+google-cloud-sdk
+codettes-919925f8ffac.json
+codettes-e4c776d9f5fa.json
+gemini-project-analyzer-b46060a8afea.json
